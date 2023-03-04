@@ -29,7 +29,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/AnonymousX1025/FallenRobot",
+                        url="https://telegra.ph/file/880ee4a07990f74a16ba6.jpg",
                     ),
                 ]
             ]
